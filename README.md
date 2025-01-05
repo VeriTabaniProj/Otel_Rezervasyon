@@ -115,4 +115,4 @@ Müşteri, oda tipine göre rezervasyon yapabilir. Belirlenmiş hizmetlerden fay
 | Yararlanılır | Otopark | Müşteri | 1:N |
 
 ### E-R DİYAGRAMI
-![Otel Otomasyon Sistemi ER Diyagramı](er-diagram.png)
+![Otel Otomasyon Sistemi ER Diyagramı](E-R Diyagrami.jpg)
